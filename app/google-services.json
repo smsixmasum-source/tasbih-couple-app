@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128349317290",
+    "firebase_url": "https://tasbih-couple-app-default-rtdb.firebaseio.com",
+    "project_id": "tasbih-couple-app",
+    "storage_bucket": "tasbih-couple-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128349317290:android:3818fc71fa3e941a1388d3",
+        "android_client_info": {
+          "package_name": "com.tasbih.couple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128349317290-v40oo4fhc6n05644edm458mtqvnvmmlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kMT2GMEUYkuzgKNM2R6-yDJfBl2kH1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128349317290-v40oo4fhc6n05644edm458mtqvnvmmlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
